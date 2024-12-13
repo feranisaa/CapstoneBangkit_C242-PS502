@@ -1,3 +1,3 @@
 # CapstoneBangkit_C242-PS502
 
-#– Smart Interactive Reality for Adventure
+# Smart Interactive Reality for Adventure
