@@ -12,4 +12,11 @@
 
 ## Application for helping tourism and local residents in Solo
 
+SIRA aims to make it easier for tourists to find suitable destinations, support them to maximize their time, and introduce various tourist attractions and local cultures in Greater Solo that may not have been explored. SIRA app also focuses on helping to improve the local economy of Solo and its surrounding areas by equalizing tourism in Greater Solo. By providing personalized tourist destination recommendations, SIRA seeks to contribute to the growth of the tourism sector through an innovative technological approach. With the even distribution of tourists in Greater Solo, this can help improve the community's economy. 
 
+
+## Machine Learning
+
+### Steps to Generate Model
+1. Download our 2 models that have python notebook file format : [this](https://github.com/feranisaa/CapstoneBangkit_C242-PS502/blob/main/RecommenderFIX.ipynb) and [this](https://github.com/feranisaa/CapstoneBangkit_C242-PS502/blob/main/ML/Image_Classification_FIX.ipynb)
+2. 
