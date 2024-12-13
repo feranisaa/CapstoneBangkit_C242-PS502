@@ -100,6 +100,12 @@ Save these files to a local directory or upload them directly to Google Colab.
 
 ---
 
+## Cloud Computing 
+This is our Cloud Computing project in which we use : 
+1. FlaskAPI to help Machine Learning model to deploy for its backend
+2. 
+
+
 ## Mobile Development
 
 Welcome to our Mobile Development Cohort project repository! This repository contains the initial implementation of our mobile application project. While the code is not yet fully functional, it serves as a foundation for further development and debugging.
