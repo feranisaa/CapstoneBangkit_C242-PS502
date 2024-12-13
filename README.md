@@ -100,6 +100,62 @@ Save these files to a local directory or upload them directly to Google Colab.
 
 ---
 
+## Mobile Development
+
+Welcome to our Mobile Development Cohort project repository! This repository contains the initial implementation of our mobile application project. While the code is not yet fully functional, it serves as a foundation for further development and debugging.
+
+Current Status
+
+Code: The code is currently in progress and contains known errors that prevent the app from running as intended.
+
+Features: Core features are under development and will be updated in future versions.
+
+## Prerequisites
+
+Before proceeding, ensure you have the following:
+
+### Development Environment:
+
+Android Studio or Xcode installed, depending on the platform.
+
+Flutter SDK (if the project uses Flutter).
+
+Node.js and npm (if the project involves React Native).
+
+### Dependencies:
+
+Ensure all necessary dependencies listed in package.json or pubspec.yaml are installed.
+
+### Basic Knowledge:
+
+Familiarity with debugging mobile apps and resolving dependency conflicts.
+
+Troubleshooting
+
+### Common Issues:
+
+Missing or conflicting dependencies.
+
+Emulator or device not configured correctly.
+
+### Solutions:
+
+Refer to the error logs for details and search for solutions online.
+
+Update dependencies to compatible versions.
+
+### Future Updates
+
+We are actively working on resolving the issues in the current implementation. Planned updates include:
+
+Fixing critical bugs to ensure the app runs as expected.
+
+Implementing core features and functionality.
+
+Improving user interface and experience.
+
+Stay tuned for progress updates!
+
 ## Contact
 
 For any questions or feedback, feel free to reach out to us via the repository's issue tracker.
