@@ -103,8 +103,9 @@ Save these files to a local directory or upload them directly to Google Colab.
 ## Cloud Computing 
 This is our Cloud Computing project in which we use : 
 1. FlaskAPI to help Machine Learning model to deploy for its backend
-2. 
+2. We deploy saved our data on Firestore and bucket on Google Cloud Platform
 
+---
 
 ## Mobile Development
 
